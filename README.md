@@ -36,7 +36,7 @@ quiet when idle                   public numbers. no vibes.
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gabe-Mills/Gabe-Mills/main/assets/fan-curve.svg" alt="Gcoolers fan curve. Meeting mode holds fans at 42 percent." width="100%">
+  <img src="assets/fan-curve.png" alt="Gcoolers fan curve. Meeting mode holds fans at 42 percent." width="100%">
 </p>
 
 <div align="center">
