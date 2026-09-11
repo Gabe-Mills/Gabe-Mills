@@ -1,4 +1,4 @@
-<div align="center">
+Mills<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=C4783A&center=true&vCenter=true&width=720&height=50&lines=Gabe+Mills;Cool+under+load.;Quiet+when+idle.;I+build+things+I+want+to+exist.;Make+it+useful.+Then+make+it+feel+right." alt="Gabe Mills" />
 
@@ -118,6 +118,6 @@ brew install gabe-mills/gcoolers/gcoolers && gcool
 
 <br/>
 
-<sub>powered by a Mac that runs too hot and a GPU that doesn't</sub>
+<sub>Gabe Mills - 2026/09/11</sub>
 
 </div>
