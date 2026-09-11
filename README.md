@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=C4783A&center=true&vCenter=true&width=640&height=52&lines=Gabe+Mills;Make+it+useful.+Then+make+it+feel+right." alt="Gabe Mills" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=C4783A&center=true&vCenter=true&width=720&height=50&lines=Gabe+Mills;Cool+under+load.;Quiet+when+idle.;I+build+things+I+want+to+exist.;Make+it+useful.+Then+make+it+feel+right." alt="Gabe Mills" />
 
-<sub>Massed Compute · GPU cloud · native Apple apps · things I want to exist</sub>
+<sub>GPU cloud by day. Fan curves by night. 3D printer when the render isn't enough.</sub>
 
 <br/><br/>
 
@@ -14,57 +14,77 @@
 
 </div>
 
----
+<br/>
 
-I build things I want to exist. GPU workflows, native Apple apps, useful web tools, and the occasional idea that ends up coming out of a 3D printer. I like working across the whole thing: **the system underneath and the experience in your hands.**
+<div align="center">
 
-I work at [Massed Compute](https://massedcompute.com) — NVIDIA cloud GPUs, setup recipes people can actually launch, marketplace, design, and [Massed Minute](https://www.youtube.com/@MassedCompute) on YouTube. When a setup is true, I want it to ship as a clip, not a slide.
+**Apple**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
 
-On my own Mac I ship [Gcoolers](https://gcoolers.com): a thermal governor for Apple Silicon. Cool under load. Quiet when idle. Local only.
+<br/>
 
----
+**GPU**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/vLLM-C4783A?style=flat-square" alt="vLLM" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
-### Massed Compute
+<br/>
 
-Public GPU writeups with a fixed harness — same weights, same engine, published numbers. Recent pages cover Qwen, GLM, Nemotron, gpt-oss, and more across L40S, A100, H100, and Blackwell.
+**Also**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" alt="Cursor" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Codex-412991?style=flat-square" alt="Codex" />
 
-I also write the launch path: Linux, Docker, CUDA, vLLM, and the recipes that turn a GPU box into something you can run the same day.
+</div>
 
-- [gpu-benchmark](https://github.com/Massed-Compute/gpu-benchmark) — the writeups
-- [massedcompute.com](https://massedcompute.com) — launch a GPU or CPU instance
-- [Massed Minute](https://www.youtube.com/@MassedCompute) — the YouTube channel
+<br/>
 
-### Gcoolers
+<div align="center">
 
-Apple Silicon thermal governor. Menu bar app, Notification Center widget, fan control, schedules, and meeting-aware behavior (Zoom / Discord / Teams). No kernel extension. Fans return to macOS when it stops. MIT, no account.
-
-```bash
-brew install gabe-mills/gcoolers/gcoolers
-gcool
+```
+╭─ GCOOLERS ──────── v3.06 ● GOVERNING ─╮
+│  CPU 131°F  ◆ WARM                    │
+│  GPU 128°F  ◇ COOL                    │
+│  FAN  66%   silent → balanced           │
+│  Zoom detected. Fans at 42%. Shh.     │
+╰───────────────────────────────────────╯
 ```
 
-[gcoolers.com](https://gcoolers.com) · [source](https://github.com/Gabe-Mills/gcoolers) · [Homebrew tap](https://github.com/Gabe-Mills/homebrew-gcoolers)
+```bash
+brew install gabe-mills/gcoolers/gcoolers && gcool
+```
 
----
+</div>
 
-### How I actually work
+<div align="center">
 
-Mac for the thing in your hands. Linux GPU boxes for the rest. I use **Cursor, Claude Code, and Codex** every day as the bench, not as a personality. Local Ollama when it should stay on-device.
+| toy | bit |
+| --- | --- |
+| [`gcoolers`](https://gcoolers.com) | thermal governor that knows you're on a call |
+| [`gpu-benchmark`](https://github.com/Massed-Compute/gpu-benchmark) | same harness. public numbers. no vibes. |
+| [Massed Minute](https://www.youtube.com/@MassedCompute) | GPU cloud as a YouTube show |
+| 3D printer | when the render should exist in your hand |
 
-I care about the details that show up when someone uses the thing: the interaction, the rough edges, and whether it holds up outside the demo.
+</div>
 
-| | What I reach for |
-| :--- | :--- |
-| **Apple** | Swift · SwiftUI · macOS · Homebrew |
-| **GPU** | Linux · Docker · CUDA · vLLM · NVIDIA cloud |
-| **Web** | TypeScript · Python · React |
-| **Motion** | video generation · 3D · prints |
+<details>
+<summary>&nbsp;<b>currently</b>&nbsp;— arguing with a MacBook</summary>
+<br/>
 
-### On the bench
+- teaching a fan curve when to shut up
+- timing tokens so the clip is honest
+- printing something I could've bought
+- making GPU boxes feel like products, not homework
 
-Native Apple experiences, GPU inference and creative pipelines, and physical prints. If it’s only impressive in a screenshot, it isn’t done.
+</details>
 
----
+<br/>
 
 <div align="center">
 
@@ -95,5 +115,9 @@ Native Apple experiences, GPU inference and creative pipelines, and physical pri
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabe-Mills/Gabe-Mills/output/github-snake.svg?v=1" />
   <img src="https://raw.githubusercontent.com/Gabe-Mills/Gabe-Mills/output/github-snake.svg?v=1" alt="contribution snake" />
 </picture>
+
+<br/>
+
+<sub>powered by a Mac that runs too hot and a GPU that doesn't</sub>
 
 </div>
