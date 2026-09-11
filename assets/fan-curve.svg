@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img" aria-label="Gcoolers fan curve. Meeting mode holds fans at 42 percent.">
+  <title>Gcoolers  meeting mode at 42%</title>
+  <rect x="0.5" y="0.5" width="719" height="239" rx="8" stroke="#C4783A" stroke-opacity="0.35" fill="none"/>
+  <path stroke="#C4783A" stroke-opacity="0.35" stroke-width="1" d="M12 12h8M12 12v8M708 12h-8M708 12v8M12 228h8M12 228v-8M708 228h-8M708 228v-8"/>
+  <text x="28" y="36" fill="#C4783A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">FAN CURVE</text>
+  <text x="692" y="36" fill="#C4783A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" text-anchor="end" letter-spacing="1.5">GCOOLERS</text>
+  <line x1="56" y1="56" x2="56" y2="188" stroke="#C4783A" stroke-opacity="0.25"/>
+  <line x1="56" y1="188" x2="680" y2="188" stroke="#C4783A" stroke-opacity="0.25"/>
+  <line x1="56" y1="132" x2="680" y2="132" stroke="#C4783A" stroke-opacity="0.2" stroke-dasharray="3 6"/>
+  <text x="48" y="136" fill="#C4783A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" text-anchor="end">42%</text>
+  <text x="48" y="60" fill="#C4783A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" text-anchor="end" fill-opacity="0.7">100</text>
+  <text x="48" y="192" fill="#C4783A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" text-anchor="end" fill-opacity="0.7">0</text>
+  <text x="56" y="216" fill="#C4783A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill-opacity="0.7">idle</text>
+  <text x="680" y="216" fill="#C4783A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" text-anchor="end" fill-opacity="0.7">load</text>
+  <path d="M56 176 C 160 174 240 168 300 150 C 360 132 400 132 470 132 C 540 132 600 90 680 48" stroke="#C4783A" stroke-width="2.5" fill="none"/>
+  <circle cx="430" cy="132" r="5" fill="#C4783A"/>
+  <circle cx="430" cy="132" r="10" stroke="#C4783A" stroke-opacity="0.45" fill="none"/>
+  <text x="442" y="118" fill="#C4783A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">ZOOM · FANS 42% · SHH</text>
+</svg>
