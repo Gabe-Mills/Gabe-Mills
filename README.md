@@ -9,7 +9,7 @@
 <p>
 <a href="https://massedcompute.com"><img src="https://img.shields.io/badge/Massed_Compute-C4783A?style=flat-square" alt="Massed Compute" /></a>
 <a href="https://github.com/Massed-Compute/gpu-benchmark"><img src="https://img.shields.io/badge/GPU_benches-C4783A?style=flat-square" alt="gpu-benchmark" /></a>
-<a href="https://www.youtube.com/@MassedCompute"><img src="https://img.shields.io/badge/YouTube-C4783A?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.youtube.com/@MassedCompute"><img src="https://img.shields.io/badge/YouTube-C4783A?style=flat-square" alt="YouTube" /></a>
 <a href="https://gcoolers.com"><img src="https://img.shields.io/badge/Gcoolers-C4783A?style=flat-square" alt="Gcoolers" /></a>
 <a href="https://gabemills.com"><img src="https://img.shields.io/badge/gabemills.com-C4783A?style=flat-square" alt="gabemills.com" /></a>
 </p>
@@ -20,19 +20,40 @@ I work at <a href="https://massedcompute.com">Massed Compute</a> on GPU cloud â€
 
 <p>
 <strong>Languages</strong><br/>
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs,ts,js,swift,html,css,ruby,bash" alt="Python Java C C++ C# TypeScript JavaScript Swift HTML CSS Ruby Bash" />
+<img src="https://img.shields.io/badge/Python-C4783A?style=flat-square" alt="Python" />
+<img src="https://img.shields.io/badge/Java-C4783A?style=flat-square" alt="Java" />
+<img src="https://img.shields.io/badge/C-C4783A?style=flat-square" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-C4783A?style=flat-square" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-C4783A?style=flat-square" alt="C#" />
+<img src="https://img.shields.io/badge/TypeScript-C4783A?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-C4783A?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Swift-C4783A?style=flat-square" alt="Swift" />
+<img src="https://img.shields.io/badge/HTML-C4783A?style=flat-square" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-C4783A?style=flat-square" alt="CSS" />
+<img src="https://img.shields.io/badge/Ruby-C4783A?style=flat-square" alt="Ruby" />
+<img src="https://img.shields.io/badge/Bash-C4783A?style=flat-square" alt="Bash" />
 </p>
 
 <p>
 <strong>Libraries & tools</strong><br/>
-<img src="https://skillicons.dev/icons?i=react,threejs,nodejs,linux,docker,git,apple,cloudflare,blender,pytorch,vscode,nginx" alt="React Three.js Node Linux Docker Git Apple Cloudflare Blender PyTorch VS Code Nginx" />
-<br/>
-<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square" alt="SwiftUI" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square" alt="CUDA" />
+<img src="https://img.shields.io/badge/React-C4783A?style=flat-square" alt="React" />
+<img src="https://img.shields.io/badge/Three.js-C4783A?style=flat-square" alt="Three.js" />
+<img src="https://img.shields.io/badge/Node-C4783A?style=flat-square" alt="Node" />
+<img src="https://img.shields.io/badge/Linux-C4783A?style=flat-square" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-C4783A?style=flat-square" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-C4783A?style=flat-square" alt="Git" />
+<img src="https://img.shields.io/badge/Apple-C4783A?style=flat-square" alt="Apple" />
+<img src="https://img.shields.io/badge/Cloudflare-C4783A?style=flat-square" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Blender-C4783A?style=flat-square" alt="Blender" />
+<img src="https://img.shields.io/badge/PyTorch-C4783A?style=flat-square" alt="PyTorch" />
+<img src="https://img.shields.io/badge/VS_Code-C4783A?style=flat-square" alt="VS Code" />
+<img src="https://img.shields.io/badge/Nginx-C4783A?style=flat-square" alt="Nginx" />
+<img src="https://img.shields.io/badge/SwiftUI-C4783A?style=flat-square" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/CUDA-C4783A?style=flat-square" alt="CUDA" />
 <img src="https://img.shields.io/badge/vLLM-C4783A?style=flat-square" alt="vLLM" />
 <img src="https://img.shields.io/badge/SGLang-C4783A?style=flat-square" alt="SGLang" />
 <img src="https://img.shields.io/badge/ComfyUI-C4783A?style=flat-square" alt="ComfyUI" />
-<img src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square" alt="Homebrew" />
+<img src="https://img.shields.io/badge/Homebrew-C4783A?style=flat-square" alt="Homebrew" />
 </p>
 
 <p>
@@ -80,9 +101,9 @@ I work at <a href="https://massedcompute.com">Massed Compute</a> on GPU cloud â€
 
 <p>
 <strong>Devices</strong><br/>
-<img src="https://img.shields.io/badge/Mac-000000?style=flat-square&logo=apple&logoColor=white" alt="Mac" />
-<img src="https://img.shields.io/badge/iPhone-000000?style=flat-square&logo=apple&logoColor=white" alt="iPhone" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Mac-C4783A?style=flat-square" alt="Mac" />
+<img src="https://img.shields.io/badge/iPhone-C4783A?style=flat-square" alt="iPhone" />
+<img src="https://img.shields.io/badge/Linux-C4783A?style=flat-square" alt="Linux" />
 <img src="https://img.shields.io/badge/L40S-76B900?style=flat-square" alt="L40S" />
 <img src="https://img.shields.io/badge/A100-76B900?style=flat-square" alt="A100" />
 <img src="https://img.shields.io/badge/A6000-76B900?style=flat-square" alt="A6000" />
