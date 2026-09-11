@@ -20,12 +20,12 @@ I work at <a href="https://massedcompute.com">Massed Compute</a> on GPU cloud â€
 
 <p>
 <strong>Languages</strong><br/>
-<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,ts,js,swift,html,css,ruby,bash" alt="Python Java C++ C# TypeScript JavaScript Swift HTML CSS Ruby Bash" />
+<img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs,ts,js,swift,html,css,ruby,bash" alt="Python Java C C++ C# TypeScript JavaScript Swift HTML CSS Ruby Bash" />
 </p>
 
 <p>
 <strong>Libraries & tools</strong><br/>
-<img src="https://skillicons.dev/icons?i=react,threejs,nodejs,linux,docker,git,apple,cloudflare,blender" alt="React Three.js Node Linux Docker Git Apple Cloudflare Blender" />
+<img src="https://skillicons.dev/icons?i=react,threejs,nodejs,linux,docker,git,apple,cloudflare,blender,pytorch,vscode,nginx" alt="React Three.js Node Linux Docker Git Apple Cloudflare Blender PyTorch VS Code Nginx" />
 <br/>
 <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square" alt="SwiftUI" />
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square" alt="CUDA" />
@@ -57,6 +57,7 @@ I work at <a href="https://massedcompute.com">Massed Compute</a> on GPU cloud â€
 <img src="https://img.shields.io/badge/gpt--oss-412991?style=flat-square" alt="gpt-oss" />
 <img src="https://img.shields.io/badge/MiniMax-C4783A?style=flat-square" alt="MiniMax" />
 <img src="https://img.shields.io/badge/LTX-C4783A?style=flat-square" alt="LTX" />
+<img src="https://img.shields.io/badge/Spark-C4783A?style=flat-square" alt="Spark" />
 <img src="https://img.shields.io/badge/FLUX-C4783A?style=flat-square" alt="FLUX" />
 <img src="https://img.shields.io/badge/Ideogram-C4783A?style=flat-square" alt="Ideogram" />
 <img src="https://img.shields.io/badge/LFM-C4783A?style=flat-square" alt="LFM" />
@@ -67,6 +68,14 @@ I work at <a href="https://massedcompute.com">Massed Compute</a> on GPU cloud â€
 <img src="https://img.shields.io/badge/Fooocus-C4783A?style=flat-square" alt="Fooocus" />
 <img src="https://img.shields.io/badge/Krea-C4783A?style=flat-square" alt="Krea" />
 <img src="https://img.shields.io/badge/Muse_Glimmer-C4783A?style=flat-square" alt="Muse Glimmer" />
+<img src="https://img.shields.io/badge/Ornith-C4783A?style=flat-square" alt="Ornith" />
+<img src="https://img.shields.io/badge/Laguna-C4783A?style=flat-square" alt="Laguna" />
+<img src="https://img.shields.io/badge/Nanbeige-C4783A?style=flat-square" alt="Nanbeige" />
+<img src="https://img.shields.io/badge/Motif-C4783A?style=flat-square" alt="Motif" />
+<img src="https://img.shields.io/badge/Mage-C4783A?style=flat-square" alt="Mage" />
+<img src="https://img.shields.io/badge/SenseNova-C4783A?style=flat-square" alt="SenseNova" />
+<img src="https://img.shields.io/badge/Bonsai-C4783A?style=flat-square" alt="Bonsai" />
+<img src="https://img.shields.io/badge/HY3-C4783A?style=flat-square" alt="HY3" />
 </p>
 
 <p>
@@ -94,11 +103,6 @@ I work at <a href="https://massedcompute.com">Massed Compute</a> on GPU cloud â€
 | [gabemills.com](https://gabemills.com) | personal site |
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gabe-Mills&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4783A&icon_color=C4783A&text_color=C9D1D9&include_all_commits=true&cache_seconds=86400" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabe-Mills&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4783A&text_color=C9D1D9&langs_count=8&cache_seconds=86400" height="165" alt="Top languages" />
-
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/Gabe-Mills/Gabe-Mills/output/github-snake.svg?v=2" alt="contribution snake" />
 
