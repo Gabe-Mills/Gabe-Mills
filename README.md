@@ -7,8 +7,6 @@
 
 GPU workflows, native Apple apps, useful web tools, and the occasional idea that ends up coming out of a 3D printer. I like working across the whole thing: **the system underneath and the experience in your hands.**
 
-At [**Massed Compute**](https://massedcompute.com), I work on AI deployment, GPU workflows, technical guides, and creative content.
-
 ## Selected work
 
 <table>
